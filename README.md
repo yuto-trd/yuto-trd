@@ -1,3 +1,5 @@
-[![](https://raw.githubusercontent.com/indigo-san/indigo-san/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/indigo-san/indigo-san/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/indigo-san/indigo-san/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://img.shields.io/badge/Age-14-blue?style=for-the-badge)
+![](https://img.shields.io/badge/C%23-passing-green?style=for-the-badge)
+
+![](https://github-readme-stats.vercel.app/api?username=indigo-san&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=indigo-san)
