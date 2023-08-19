@@ -2,9 +2,11 @@ C#とAvaloniaUIでクロスプラットフォームのソフトウェアを作�
 
 ## Works
 ### 🎬 [Beutl](https://github.com/b-editor/beutl)
-クロスプラットフォーム動作する動画編集ソフト
+
 ![](https://img.shields.io/github/stars/b-editor/beutl)
 ![](https://img.shields.io/github/downloads/b-editor/beutl/total)
+
+クロスプラットフォーム動作する動画編集ソフト
 
 ![](https://raw.github.com/b-editor/beutl/main/assets/screenshots/screenshot-light-dark.png)
 
