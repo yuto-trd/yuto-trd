@@ -10,6 +10,14 @@ C#とAvaloniaUIでクロスプラットフォームのソフトウェアを作�
 
 ![](https://raw.github.com/b-editor/beutl/main/assets/screenshots/screenshot-light-dark.png)
 
+### 📝 [Mita-memo](https://github.com/indigo-san/mita-memo)
+
+https://mita-memo.vercel.app  
+見た作品を記録するサービス
+
+![ogp_large](https://github.com/indigo-san/indigo-san/assets/66758394/108d36bc-ba9f-4370-942d-0c960e4ec7b1)
+
+
 ### [OtpOnPc](https://github.com/indigo-san/OtpOnPc)
 シンプルなワンタイムパスワード生成ソフト。
 一応、暗号化はしている。
