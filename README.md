@@ -17,6 +17,11 @@ https://mita-memo.vercel.app
 
 ![ogp_large](https://github.com/indigo-san/indigo-san/assets/66758394/108d36bc-ba9f-4370-942d-0c960e4ec7b1)
 
+### [ReDocking](https://github.com/indigo-san/ReDocking)
+
+Avalonia用のドッキングUIライブラリ
+
+![](https://raw.githubusercontent.com/indigo-san/ReDocking/main/docs/screenshot.png)
 
 ### [OtpOnPc](https://github.com/indigo-san/OtpOnPc)
 シンプルなワンタイムパスワード生成ソフト。
