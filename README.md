@@ -19,15 +19,12 @@ https://mita-memo.vercel.app
 
 ### [ReDocking](https://github.com/indigo-san/ReDocking)
 
+![](https://img.shields.io/github/stars/indigo-san/ReDocking)
+[![](https://img.shields.io/nuget/dt/ReDocking.Avalonia?label=nuget-downloads)](https://www.nuget.org/packages/ReDocking.Avalonia/)
+
 Avalonia用のドッキングUIライブラリ
 
 ![](https://raw.githubusercontent.com/indigo-san/ReDocking/main/docs/screenshot.png)
-
-### [OtpOnPc](https://github.com/indigo-san/OtpOnPc)
-シンプルなワンタイムパスワード生成ソフト。
-一応、暗号化はしている。
-
-![](https://user-images.githubusercontent.com/66758394/225217886-7e847bc9-837f-4cb5-a1ad-4011a2ef1b14.gif)
 
 ### [FluentAvalonia.BreadcrumbBar](https://github.com/indigo-san/FluentAvalonia.BreadcrumbBar)
 
@@ -35,6 +32,12 @@ Avalonia用のドッキングUIライブラリ
 ![](https://img.shields.io/nuget/dt/FluentAvalonia.BreadcrumbBar?label=nuget-downloads)
 
 WinUIのBreadcrumbBarのAvaloniaへの移植。
+
+### [OtpOnPc](https://github.com/indigo-san/OtpOnPc)
+シンプルなワンタイムパスワード生成ソフト。
+一応、暗号化はしている。
+
+![](https://user-images.githubusercontent.com/66758394/225217886-7e847bc9-837f-4cb5-a1ad-4011a2ef1b14.gif)
 
 [FluentAvalonia](https://github.com/amwx/FluentAvalonia)と共に使う。
 
