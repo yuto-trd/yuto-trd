@@ -8,7 +8,9 @@ Feel free to connect if you share similar interests or just want to chat about c
 ## Skills
 
 - **Languages**: C#, TypeScript, Python, Java
-- **Frameworks**: Avalonia, Next.js, Tailwind CSS, React, Node.js, Express.js, Unity
+- **Frameworks**:
+  - Avalonia, WPF, ASP.NET Core, SignalR, Blazor, Entity Framework, Unity
+  - Next.js, Tailwind CSS, React, Node.js, Express.js
 - **Tools**: JetBrains IDEs, Git, Visual Studio Code, Visual Studio, Docker, Unity Editor, Figma
 
 ## Projects
