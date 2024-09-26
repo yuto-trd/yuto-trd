@@ -7,11 +7,13 @@ Feel free to connect if you share similar interests or just want to chat about c
 
 ## Skills
 
-- **Languages**: C#, TypeScript, Python, Java
+- **Languages**: C#, TypeScript, Python, Java, Kotlin, C/C++, Lua, CIL(MSIL), PowerShell
 - **Frameworks**:
-  - Avalonia, WPF, ASP.NET Core, SignalR, Blazor, Entity Framework, Unity
-  - Next.js, Tailwind CSS, React, Node.js, Express.js
-- **Tools**: JetBrains IDEs, Git, Visual Studio Code, Visual Studio, Docker, Unity Editor, Figma
+  - Avalonia, WPF, ASP.NET Core, SignalR, Blazor, Entity Framework, Unity, Generic Host
+  - Next.js, Tailwind CSS, React, Node.js, Express.js, NextAuth
+  - Selenium, Flask
+  - Spring
+- **Tools**: JetBrains IDEs, Git, Visual Studio Code, Visual Studio, Docker, Unity Editor, Figma, nginx, MySQL, PostgreSQL, Meilisearch, Supabase, Firebase, Google Cloud, Azure, AWS, Vercel, Dependabot, GitHub Actions
 
 ## Projects
 ### 🎬 [Beutl](https://github.com/b-editor/beutl)
