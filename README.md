@@ -5,16 +5,6 @@ I run an open-source group called [b-editor](https://github.com/b-editor) on Git
 I’m really into desktop and web development, and I’m always up for exploring new tech ideas! 🚀
 Feel free to connect if you share similar interests or just want to chat about coding!
 
-## Skills
-
-- **Languages**: C#, TypeScript, Python, Java, Kotlin, C/C++, Lua, CIL(MSIL), PowerShell
-- **Frameworks**:
-  - Avalonia, WPF, ASP.NET Core, SignalR, Blazor, Entity Framework, Unity, Generic Host
-  - Next.js, Tailwind CSS, React, Node.js, Express.js, NextAuth
-  - Selenium, Flask
-  - Spring
-- **Tools**: JetBrains IDEs, Git, Visual Studio Code, Visual Studio, Docker, Unity Editor, Figma, nginx, MySQL, PostgreSQL, Meilisearch, Supabase, Firebase, Google Cloud, Azure, AWS, Vercel, Dependabot, GitHub Actions
-
 ## Projects
 ### 🎬 [Beutl](https://github.com/b-editor/beutl)
 
